@@ -1,1 +1,4 @@
 lectures/*.pdf
+notebooks/auth_twitter.json
+notebooks/auth_reddit.json
+/secrets/
